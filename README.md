@@ -1,4 +1,4 @@
-# 花卉识别微信小程序(flowers Identify WechatProgram)
+# 花卉识别微信小程序(Flowers Identify WechatProgram)
 ## 本项目是一款实用的AI智能识物小程序，基于ResNet50模型并结合Paddle.js将模型部署在微信小程序中，可以通过拍照或上传本地图像进行智能识别花卉，支持识别共102类花卉。
 *小程序代码中itemMap.js文件的识别标签不全
 
