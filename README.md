@@ -15,7 +15,7 @@
 ##### 1.identifyItems1.zip
 ##### 该压缩包包含识物标签、模型地址和可供识别的图片
 ##### 识物标签可替换小程序代码中的itemMap.js文件内容；模型地址可替换identify/index.js里Paddle.js注册代码中的modelPath属性
-*模型地址来自Paddle.js官方示例“寻物大作战
+*模型地址来自Paddle.js官方示例“寻物大作战”
 #
 ##### 2.identifyItems2.zip
 ##### 该压缩包包含识物标签和模型文件
